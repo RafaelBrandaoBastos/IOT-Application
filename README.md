@@ -1,7 +1,5 @@
 # IOT Academic Project
 
-I, as an user, want a custom page for error 404 - Page not found.
-
 ## Objectives
 
 To carry out the Final IoT Project, the group established the following goals:
