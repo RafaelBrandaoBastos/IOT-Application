@@ -13,7 +13,5 @@ To carry out the Final IoT Project, the group established the following goals:
 * Mobile interface creation
 
 
-<img src="ui.content/src/main/content/jcr_root/content/dam/reactapp/asset.jpg/_jcr_content/renditions/demo.png">
-<img src="ui.content/src/main/content/jcr_root/content/dam/reactapp/asset.jpg/_jcr_content/renditions/aemcustom.png">
-<img src="ui.content/src/main/content/jcr_root/content/dam/reactapp/asset.jpg/_jcr_content/renditions/aempage.png">
+<img src="content/img1.png">
 
