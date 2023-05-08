@@ -10,6 +10,18 @@ To carry out the Final IoT Project, the group established the following goals:
 * Creation of the database to store the collected data
 * Mobile interface connected with MQTT
 
+## Components
+
+* 1 - ESP32-DEVKIT-V1
+* 2 - Small Protoboard
+* 3 - DHT11 Sensor
+* 4 - GY30 Sensor
+* 5 - HW-038 Sensor
+* 5 - Moisture Capacitive Sensor
+* 6 - Hydraulic Pump 2.5-6v
+* 7 - Relay Module
+* 8 - 5 Volt Source
+
 
 <img src="content/img1.png">
 
