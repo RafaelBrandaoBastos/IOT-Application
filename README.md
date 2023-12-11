@@ -3,8 +3,6 @@ https://docs.google.com/presentation/d/1ldtN20pnZtX3NViG3EB5WOL24Af9nZSHFJvYATVG
 
 ## Objectives
 
-To carry out the Final IoT Project, the group established the following goals:
-
 * Use sensors to monitor the environment and the soil, together with an actuator to irrigate the garden.
 * Connect the ESP 32 via WI-FI, allowing the sending and receiving of messages via MQTT in a timely manner
 * Creating events triggered by receiving data in MQTT
