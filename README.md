@@ -22,5 +22,4 @@ https://docs.google.com/presentation/d/1ldtN20pnZtX3NViG3EB5WOL24Af9nZSHFJvYATVG
 * 8 - 5 Volt Source
 
 ![image](https://github.com/RafaelBrandaoBastos/IOT-Application/assets/72472711/d514b120-cac5-4dbc-957d-4ae60a440f56)
-<img src="content/img1.png">
 
