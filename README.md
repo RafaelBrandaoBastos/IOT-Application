@@ -1,4 +1,4 @@
-# IOT Academic Project
+# IOT Kitchen Garden
 https://docs.google.com/presentation/d/1ldtN20pnZtX3NViG3EB5WOL24Af9nZSHFJvYATVGubE/edit?usp=sharing
 
 ## Objectives
